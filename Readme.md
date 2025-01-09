@@ -10,12 +10,6 @@ Takes inspiration from the Magic Mirror calendar and loosely converts it to a cu
     git clone https://github.com/juahan/magic_mirror_calendar.git custom_components/mmcal
     ```
 
-2. Ensure the `requirements` listed in manifest.json are installed:
-
-    ```sh
-    pip install icalendar aiohttp
-    ```
-
 ## Configuration
 
 1. Add the following to your `configuration.yaml`:
