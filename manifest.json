@@ -1,0 +1,11 @@
+{
+  "domain": "magic_mirror_calendar",
+  "name": "Magic Mirror Calendar",
+  "documentation": "https://github.com/yourusername/magic_mirror_calendar",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["icalendar", "aiohttp", "datetime"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "config_flow": true
+}
